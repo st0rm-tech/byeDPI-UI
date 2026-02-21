@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/stoorm/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/.cxx/Debug/4k726l35/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/stoorm/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/.cxx/Debug/4k726l35/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "byedpi::@6890427a1f51a3e7e1df": {
+      "artifactName": "byedpi",
+      "abi": "armeabi-v7a",
+      "output": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/build/intermediates/cxx/Debug/4k726l35/obj/armeabi-v7a/libbyedpi.so",
+      "runtimeFiles": []
+    }
+  }
+}

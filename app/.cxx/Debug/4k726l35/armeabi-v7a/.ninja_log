@@ -1,0 +1,11 @@
+# ninja log v5
+0	147	1771680596362735283	CMakeFiles/byedpi.dir/byedpi/conev.c.o	74189d89db060f12
+6	305	1771680596517738489	CMakeFiles/byedpi.dir/byedpi/mpool.c.o	7609fc650ac2e5bf
+1	437	1771680596651741261	CMakeFiles/byedpi.dir/byedpi/desync.c.o	6494510aeea6a529
+6	453	1771680596662741489	CMakeFiles/byedpi.dir/byedpi/packets.c.o	b628ec10039f02d2
+2	560	1771680596761743537	CMakeFiles/byedpi.dir/byedpi/extend.c.o	699adab8f661d913
+306	615	1771680596816744674	CMakeFiles/byedpi.dir/native-lib.c.o	f02ba8cfe8e6d4fa
+148	631	1771680596846745295	CMakeFiles/byedpi.dir/byedpi/proxy.c.o	61ff23d1fb2c1ed0
+4	668	1771680596881746019	CMakeFiles/byedpi.dir/byedpi/main.c.o	c2b04df86ce3e77e
+437	680	1771680596895746308	CMakeFiles/byedpi.dir/utils.c.o	79f1a4209f5676e1
+680	754	1771680596967747798	/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/build/intermediates/cxx/Debug/4k726l35/obj/armeabi-v7a/libbyedpi.so	523017517f257022

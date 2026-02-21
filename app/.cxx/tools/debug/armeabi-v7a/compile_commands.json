@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/.cxx/Debug/4k726l35/armeabi-v7a",
+  "command": "/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --sysroot=/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DANDROID_APP -Dbyedpi_EXPORTS -I/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=c99 -O2 -D_XOPEN_SOURCE=500 -o CMakeFiles/byedpi.dir/byedpi/conev.c.o -c /home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi/conev.c",
+  "file": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi/conev.c"
+},
+{
+  "directory": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/.cxx/Debug/4k726l35/armeabi-v7a",
+  "command": "/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --sysroot=/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DANDROID_APP -Dbyedpi_EXPORTS -I/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=c99 -O2 -D_XOPEN_SOURCE=500 -o CMakeFiles/byedpi.dir/byedpi/desync.c.o -c /home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi/desync.c",
+  "file": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi/desync.c"
+},
+{
+  "directory": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/.cxx/Debug/4k726l35/armeabi-v7a",
+  "command": "/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --sysroot=/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DANDROID_APP -Dbyedpi_EXPORTS -I/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=c99 -O2 -D_XOPEN_SOURCE=500 -o CMakeFiles/byedpi.dir/byedpi/extend.c.o -c /home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi/extend.c",
+  "file": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi/extend.c"
+},
+{
+  "directory": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/.cxx/Debug/4k726l35/armeabi-v7a",
+  "command": "/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --sysroot=/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DANDROID_APP -Dbyedpi_EXPORTS -I/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=c99 -O2 -D_XOPEN_SOURCE=500 -o CMakeFiles/byedpi.dir/byedpi/main.c.o -c /home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi/main.c",
+  "file": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi/main.c"
+},
+{
+  "directory": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/.cxx/Debug/4k726l35/armeabi-v7a",
+  "command": "/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --sysroot=/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DANDROID_APP -Dbyedpi_EXPORTS -I/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=c99 -O2 -D_XOPEN_SOURCE=500 -o CMakeFiles/byedpi.dir/byedpi/mpool.c.o -c /home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi/mpool.c",
+  "file": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi/mpool.c"
+},
+{
+  "directory": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/.cxx/Debug/4k726l35/armeabi-v7a",
+  "command": "/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --sysroot=/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DANDROID_APP -Dbyedpi_EXPORTS -I/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=c99 -O2 -D_XOPEN_SOURCE=500 -o CMakeFiles/byedpi.dir/byedpi/packets.c.o -c /home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi/packets.c",
+  "file": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi/packets.c"
+},
+{
+  "directory": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/.cxx/Debug/4k726l35/armeabi-v7a",
+  "command": "/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --sysroot=/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DANDROID_APP -Dbyedpi_EXPORTS -I/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=c99 -O2 -D_XOPEN_SOURCE=500 -o CMakeFiles/byedpi.dir/byedpi/proxy.c.o -c /home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi/proxy.c",
+  "file": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi/proxy.c"
+},
+{
+  "directory": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/.cxx/Debug/4k726l35/armeabi-v7a",
+  "command": "/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --sysroot=/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DANDROID_APP -Dbyedpi_EXPORTS -I/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=c99 -O2 -D_XOPEN_SOURCE=500 -o CMakeFiles/byedpi.dir/native-lib.c.o -c /home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/native-lib.c",
+  "file": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/native-lib.c"
+},
+{
+  "directory": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/.cxx/Debug/4k726l35/armeabi-v7a",
+  "command": "/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=armv7-none-linux-androideabi21 --sysroot=/home/stoorm/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DANDROID_APP -Dbyedpi_EXPORTS -I/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/byedpi -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -std=c99 -O2 -D_XOPEN_SOURCE=500 -o CMakeFiles/byedpi.dir/utils.c.o -c /home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/utils.c",
+  "file": "/home/stoorm/Masaüstü/ByeDPIAndroid-master/app/src/main/cpp/utils.c"
+}
+]
